@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.actitme.testscript.ProjectModule"/>
       <class name="com.actitme.testscript.CustomerModule"/>
     </classes>
   </test> <!-- Test -->
