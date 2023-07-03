@@ -12,4 +12,5 @@ Follow below steps to get DETAILED documentation
    4. In eclipse open the same project
    5. Right click on root project and set directory as source root.
    6. Open maaven and run maven command "mvn clean install"
-   7. Open 
+   7. Open pom.xml
+   8. Right click on pom.xml and click on run.
